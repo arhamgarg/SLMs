@@ -1,0 +1,5 @@
+pypdf
+sacremoses
+sentencepiece
+torch
+transformers<5
